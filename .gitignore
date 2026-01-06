@@ -1,0 +1,21 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments (if you use them locally)
+venv/
+.env/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Local configuration files
+*.local
